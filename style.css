@@ -1,0 +1,111 @@
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #eeeeeeee;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 80%;
+    background-color: #b4b4b4bc;
+    margin: 0 auto;
+    padding: 2%;
+}
+/* header starts here */
+header{
+    
+}
+.pro_img{
+    height: 120px;
+    width: 120px;
+    border: 2px solid white;
+    border-radius: 45%;
+    float: left;
+}
+.header_bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #3b766c;
+}
+.header_contact{
+    float: right;
+    padding: 30px;
+}
+.header_contact a{
+    color: #3b766c;
+    text-decoration: none;
+    font-weight: bold;
+}
+.header_contact a:hover{
+    color: #ff5f2b;
+}
+.div_clr{
+    clear: both;
+}
+hr{
+    border: 4px solid black;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: 0px;
+}
+/* header ends here */
+/* main starts here */
+#personal_sec{
+    
+}
+.left_div{
+    float: left;
+    width: 30%;
+}
+.right_div{
+    float: left;
+    width: 70%;
+    text-align: justify;
+}
+.common_hr{
+    border: 2px solid black;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: 0px;
+}
+.edu_left{
+    float: left;
+    width: 45%;
+}
+.edu_right{
+    float: right;
+    width: 45%;
+}
+.ref_left{
+    float: left;
+    width: 45%;
+}
+.ref_right{
+    float: right;
+    width: 45%;
+}
+/* main ends here */
+/* footer starts here */
+.footer_sec{
+    background-color: #06234bfb;
+    text-align: center;
+    padding: 15px;
+}
+.footer_sec a{
+    color: #95ccfffb;
+    text-decoration: none;
+}
+.footer_sec p{
+    color: #95ccfffb;
+    margin-top: 20px;
+}
+.footer_sec a:hover{
+    color: #ff5f2b;
+}
+/* footer ends here */
